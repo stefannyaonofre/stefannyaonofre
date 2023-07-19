@@ -2,7 +2,7 @@
 
 Soy Ingeniera de Sistemas y Computación 
 
-**Actualmente estoy aprendiendo desarrollo Front-end
+** Actualmente estoy aprendiendo desarrollo Front-end
 <!--
 **stefannyaonofre/stefannyaonofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
