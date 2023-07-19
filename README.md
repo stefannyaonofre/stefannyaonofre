@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stefannya Onofre</h1>
 <h3 align="center">Ingeniera de Sistemas y computación</h3>
-<h3 align="center">Estudiante Front-end</h3>
+<h3 align="center">Actualmente estoy aprendiendo desarrollo Front-end</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
